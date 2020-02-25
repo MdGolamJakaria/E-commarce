@@ -4,3 +4,30 @@
     font-family: 'Teko', ;
     font-family: 'Cuprum', ;
 }
+/*-------------- Start Reusable Component ---------------*/
+
+
+/*-------------- End Reusable Compunent ---------------*/
+/*-------------- Start Header Style ---------------*/
+
+
+
+/*-------------- End Header Style ---------------*/
+/*-------------- Start main Style ---------------*/
+
+
+
+/*-------------- End main Style ---------------*/
+
+
+/*-------------- Start Footer Style ---------------*/
+footer p{
+    margin: auto;
+}
+footer p a b{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+/*-------------- End Footer Style ---------------*/
+
